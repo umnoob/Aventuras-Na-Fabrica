@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 53c2318ceac7ca743934e81bddc0a6bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4257366412279353724
+    second: Robots-1.png (1)_0
+  - first:
+      213: 8682817652637192991
+    second: Robots-1.png (1)_1
+  - first:
+      213: -3988402984215610252
+    second: Robots-1.png (1)_2
+  - first:
+      213: -608907759477075058
+    second: Robots-1.png (1)_3
+  - first:
+      213: -963267742488236404
+    second: Robots-1.png (1)_4
+  - first:
+      213: 8802641969669830494
+    second: Robots-1.png (1)_5
+  - first:
+      213: 1135408067622117064
+    second: Robots-1.png (1)_6
+  - first:
+      213: 4756852142670434219
+    second: Robots-1.png (1)_7
+  - first:
+      213: 1270708030320142710
+    second: Robots-1.png (1)_8
+  - first:
+      213: 1547754535198456775
+    second: Robots-1.png (1)_9
+  - first:
+      213: 801236852730172539
+    second: Robots-1.png (1)_10
+  - first:
+      213: -506310040088499107
+    second: Robots-1.png (1)_11
+  - first:
+      213: -1086714366283566546
+    second: Robots-1.png (1)_12
+  - first:
+      213: -7401631993494509828
+    second: Robots-1.png (1)_13
+  - first:
+      213: 725329233339752768
+    second: Robots-1.png (1)_14
+  - first:
+      213: 9114350355474582205
+    second: Robots-1.png (1)_15
+  - first:
+      213: 7280445729127654396
+    second: Robots-1.png (1)_16
+  - first:
+      213: -2062801610395251292
+    second: Robots-1.png (1)_17
+  - first:
+      213: -7185121028486428874
+    second: Robots-1.png (1)_18
+  - first:
+      213: -3622711125709855515
+    second: Robots-1.png (1)_19
+  - first:
+      213: 3465449124841591389
+    second: Robots-1.png (1)_20
+  - first:
+      213: -4233988621715077930
+    second: Robots-1.png (1)_21
+  - first:
+      213: -4718013336205152369
+    second: Robots-1.png (1)_22
+  - first:
+      213: -1096059702098886200
+    second: Robots-1.png (1)_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robots-1.png (1)_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 505
+        width: 150
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ee865fdcbcae4c0800000000000000
+      internalID: -4257366412279353724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 505
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f135eeac6a09f7870800000000000000
+      internalID: 8682817652637192991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 505
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c78b80e9856a8c0800000000000000
+      internalID: -3988402984215610252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 505
+        width: 150
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83d36f6e99bc87f0800000000000000
+      internalID: -608907759477075058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 505
+        width: 150
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e65618719c1a2f0800000000000000
+      internalID: -963267742488236404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 515
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577d17ab34492a70800000000000000
+      internalID: 8802641969669830494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 505
+        width: 150
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce9ab13f97c1cf00800000000000000
+      internalID: 1135408067622117064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 505
+        width: 150
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf4de422dbb30240800000000000000
+      internalID: 4756852142670434219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 235
+        width: 130
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e778983672a110800000000000000
+      internalID: 1270708030320142710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 235
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbf006ac8aba7510800000000000000
+      internalID: 1547754535198456775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 225
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b741fe32ca09e1b00800000000000000
+      internalID: 801236852730172539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 225
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5caf4a73b939f8f0800000000000000
+      internalID: -506310040088499107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 235
+        width: 130
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22ba51aa073be0f0800000000000000
+      internalID: -1086714366283566546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 245
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e79ddaee184990800000000000000
+      internalID: -7401631993494509828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 255
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0412c624813e01a00800000000000000
+      internalID: 725329233339752768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 245
+        width: 130
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8480cb5dac7e70800000000000000
+      internalID: 9114350355474582205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 55
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3e92331d6590560800000000000000
+      internalID: 7280445729127654396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 55
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad89425dd47f53e0800000000000000
+      internalID: -2062801610395251292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 45
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63780e43e72594c90800000000000000
+      internalID: -7185121028486428874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_19
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 45
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e46534dc6b89bdc0800000000000000
+      internalID: -3622711125709855515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 45
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d521f594e9fb71030800000000000000
+      internalID: 3465449124841591389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 55
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d480abf7c9dd35c0800000000000000
+      internalID: -4233988621715077930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 65
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fafe92edf368eb0800000000000000
+      internalID: -4718013336205152369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robots-1.png (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 55
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c186c312830ac0f0800000000000000
+      internalID: -1096059702098886200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

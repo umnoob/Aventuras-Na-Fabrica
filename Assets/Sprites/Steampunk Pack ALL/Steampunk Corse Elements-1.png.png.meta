@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 3ac3625cb4665064985c4ffc60ea2c19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5906407171879049179
+    second: Steampunk Corse Elements-1.png_0
+  - first:
+      213: 7458140929011566470
+    second: Steampunk Corse Elements-1.png_1
+  - first:
+      213: 6887498055955247199
+    second: Steampunk Corse Elements-1.png_2
+  - first:
+      213: -8707671600802963845
+    second: Steampunk Corse Elements-1.png_3
+  - first:
+      213: -7071935797688137336
+    second: Steampunk Corse Elements-1.png_4
+  - first:
+      213: 4760831966989854414
+    second: Steampunk Corse Elements-1.png_5
+  - first:
+      213: 169104701089401590
+    second: Steampunk Corse Elements-1.png_6
+  - first:
+      213: -4907831369611707556
+    second: Steampunk Corse Elements-1.png_7
+  - first:
+      213: 896941185529324837
+    second: Steampunk Corse Elements-1.png_8
+  - first:
+      213: 1143852927870062951
+    second: Steampunk Corse Elements-1.png_9
+  - first:
+      213: -5775158987362761943
+    second: Steampunk Corse Elements-1.png_10
+  - first:
+      213: -6182841305978450061
+    second: Steampunk Corse Elements-1.png_11
+  - first:
+      213: 2015356062837203422
+    second: Steampunk Corse Elements-1.png_12
+  - first:
+      213: -7397638762956655284
+    second: Steampunk Corse Elements-1.png_13
+  - first:
+      213: -7584535674742083318
+    second: Steampunk Corse Elements-1.png_14
+  - first:
+      213: -428633952467330797
+    second: Steampunk Corse Elements-1.png_15
+  - first:
+      213: 6109742460088509730
+    second: Steampunk Corse Elements-1.png_16
+  - first:
+      213: -297380963295112408
+    second: Steampunk Corse Elements-1.png_17
+  - first:
+      213: -4812936133283025228
+    second: Steampunk Corse Elements-1.png_18
+  - first:
+      213: 3075161837824935521
+    second: Steampunk Corse Elements-1.png_19
+  - first:
+      213: 4701157094337242453
+    second: Steampunk Corse Elements-1.png_20
+  - first:
+      213: 9161775786425550536
+    second: Steampunk Corse Elements-1.png_21
+  - first:
+      213: -5917351447491668451
+    second: Steampunk Corse Elements-1.png_22
+  - first:
+      213: 2809814393112395616
+    second: Steampunk Corse Elements-1.png_23
+  - first:
+      213: 4490495561136641313
+    second: Steampunk Corse Elements-1.png_24
+  - first:
+      213: -6584416257118026302
+    second: Steampunk Corse Elements-1.png_25
+  - first:
+      213: 1890145991206321151
+    second: Steampunk Corse Elements-1.png_26
+  - first:
+      213: 6892502965294089439
+    second: Steampunk Corse Elements-1.png_27
+  - first:
+      213: 7316748966114903734
+    second: Steampunk Corse Elements-1.png_28
+  - first:
+      213: 7651015535978631632
+    second: Steampunk Corse Elements-1.png_29
+  - first:
+      213: 6281514518919115363
+    second: Steampunk Corse Elements-1.png_30
+  - first:
+      213: -4905273999299607692
+    second: Steampunk Corse Elements-1.png_31
+  - first:
+      213: 1313387004759588303
+    second: Steampunk Corse Elements-1.png_32
+  - first:
+      213: -354864932235174668
+    second: Steampunk Corse Elements-1.png_33
+  - first:
+      213: 3331637908880267346
+    second: Steampunk Corse Elements-1.png_34
+  - first:
+      213: 1976859235628008932
+    second: Steampunk Corse Elements-1.png_35
+  - first:
+      213: -3866667252231684760
+    second: Steampunk Corse Elements-1.png_36
+  - first:
+      213: 2677715431714014987
+    second: Steampunk Corse Elements-1.png_37
+  - first:
+      213: -6574208410546064269
+    second: Steampunk Corse Elements-1.png_38
+  - first:
+      213: 625382310503110117
+    second: Steampunk Corse Elements-1.png_39
+  - first:
+      213: 903659544776592868
+    second: Steampunk Corse Elements-1.png_40
+  - first:
+      213: 5793225366246576211
+    second: Steampunk Corse Elements-1.png_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1150
+        width: 160
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd79ba28706c7f150800000000000000
+      internalID: 5906407171879049179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1120
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6874986f8a3a08760800000000000000
+      internalID: 7458140929011566470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1150
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f7688dfe459f50800000000000000
+      internalID: 6887498055955247199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1120
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ed16570d2282780800000000000000
+      internalID: -8707671600802963845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1150
+        width: 160
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8890e685cdf6bdd90800000000000000
+      internalID: -7071935797688137336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_5
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1150
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec621c3337fd11240800000000000000
+      internalID: 4760831966989854414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_6
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1150
+        width: 100
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa484664d7c85200800000000000000
+      internalID: 169104701089401590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 990
+        width: 160
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b76c44f51e3ebb0800000000000000
+      internalID: -4907831369611707556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 990
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a4eb8143927c00800000000000000
+      internalID: 896941185529324837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1000
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7615cf07d28cfdf00800000000000000
+      internalID: 1143852927870062951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_10
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 0
+        width: 331
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92386d4cf738adfa0800000000000000
+      internalID: -5775158987362761943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 800
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fca8e1792223aa0800000000000000
+      internalID: -6182841305978450061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 30
+        width: 280
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1675d49abf7fb10800000000000000
+      internalID: 2015356062837203422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 309
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45fe4d4dbe465990800000000000000
+      internalID: -7397638762956655284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 670
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0178b80df05eb690800000000000000
+      internalID: -7584535674742083318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195384f0bf2d0af0800000000000000
+      internalID: -428633952467330797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 670
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22562ba856a2ac450800000000000000
+      internalID: 6109742460088509730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 960
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823d4d7e69d7fdbf0800000000000000
+      internalID: -297380963295112408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_18
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 960
+        width: 101
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee5093614053db0800000000000000
+      internalID: -4812936133283025228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 990
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166846a066b2daa20800000000000000
+      internalID: 3075161837824935521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_20
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 960
+        width: 100
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5556741387ddd3140800000000000000
+      internalID: 4701157094337242453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 962
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c68bad598a252f70800000000000000
+      internalID: 9161775786425550536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 130
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d169d11c53851eda0800000000000000
+      internalID: -5917351447491668451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f7e32bd477ef620800000000000000
+      internalID: 2809814393112395616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 670
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1259403dbe1715e30800000000000000
+      internalID: 4490495561136641313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 640
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c54c25cc447f94a0800000000000000
+      internalID: -6584416257118026302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 480
+        width: 60
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb3b7bb3c52b3a10800000000000000
+      internalID: 1890145991206321151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 320
+        width: 119
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd44eabcde617af50800000000000000
+      internalID: 6892502965294089439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64cfb3b605a8560800000000000000
+      internalID: 7316748966114903734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d15009d71edd2a60800000000000000
+      internalID: 7651015535978631632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f1af8c2c6c2750800000000000000
+      internalID: 6281514518919115363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47389c17947fcebb0800000000000000
+      internalID: -4905273999299607692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd3f4fa5861a3210800000000000000
+      internalID: 1313387004759588303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 531
+        width: 160
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc11ea6934431bf0800000000000000
+      internalID: -354864932235174668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 801
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258980fb60b5c3e20800000000000000
+      internalID: 3331637908880267346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_35
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 640
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5ce8e30073f6b10800000000000000
+      internalID: 1976859235628008932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 640
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d381ede96d65ac0800000000000000
+      internalID: -3866667252231684760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 801
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0745ec7ff7292520800000000000000
+      internalID: 2677715431714014987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_38
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 801
+        width: 157
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37434024848b3c4a0800000000000000
+      internalID: -6574208410546064269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_39
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 830
+        width: 163
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5d952e5edcda800800000000000000
+      internalID: 625382310503110117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_40
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 640
+        width: 126
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edcc4471917a8c00800000000000000
+      internalID: 903659544776592868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steampunk Corse Elements-1.png_41
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 640
+        width: 134
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d8ead6cba56050800000000000000
+      internalID: 5793225366246576211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
